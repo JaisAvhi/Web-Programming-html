@@ -1,1 +1,1 @@
-https://github.com/JaisAvhi/Web-Programming-html#web-programming-html
+https://github.com/JaisAvhi/Web-Programming-html
